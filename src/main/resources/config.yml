@@ -1,0 +1,5 @@
+# 每个区块最大实体数量
+max-entities-per-chunk: 10
+
+# 每个区块最大掉落物数量
+max-items-per-chunk: 20

@@ -1,0 +1,4 @@
+name: BlockEntityClearer
+version: '1.0-SNAPSHOT'
+main: org.windy.blockEntityClearer.BlockEntityClearer
+api-version: '1.20'
